@@ -1,0 +1,22 @@
+{
+	"name": "test",
+	"main": "index.js",
+	"scripts": {
+		"dev": "NODE_ENV=development node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"next": "14.2.3",
+	},
+	"devDependencies": {
+		"ts-node": "10.9.2",
+		"type-fest": "4.13.1",
+		"typescript": "5.3.3"
+	},
+	"engines": {
+		"npm": ">=10.0.0",
+		"node": ">=20.0.0"
+	}
+}
